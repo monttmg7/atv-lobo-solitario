@@ -1,4 +1,4 @@
-.top-bar {
+.faixa {
   width: 90vw;
   height: 10vh;
   background-color: #f9bd2a;
@@ -6,7 +6,7 @@
   text-align: center;
 }
 
-.top-bar h1 {
+.faixa h1 {
   margin: 0;
   font-size: 30px;
   color: #d62828;
@@ -23,7 +23,7 @@ h2 {
   margin-bottom: 20px;
 }
 
-.add-button {
+.button {
   background-color: #5a9cf3;
   color: white;
   padding: 10px 20px;
@@ -34,7 +34,7 @@ h2 {
   box-shadow: 2px 2px 3px #aaa;
 }
 
-.add-button:hover {
+.button:hover {
   background-color: #4a8ae0;
 }
 
